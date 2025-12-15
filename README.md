@@ -39,8 +39,6 @@ simon-says-game/
 ├── SimoSay.js # Game logic
 └── README.md # Project documentation
 
-yaml
-Copy code
 
 ---
 
@@ -57,8 +55,8 @@ This project was created to practice and demonstrate:
 ## 🔧 How to Run Locally
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/simon-says-game.git
-Open index.html in your browser
+   git clone https://github.com/Tejas2208/Simon-Say-Game.git
+Open SimonSay.html in your browser
 
 Play the game
 
@@ -74,19 +72,4 @@ Improve UI/UX animations
 📜 License
 This project is open-source and available under the MIT License.
 
-yaml
-Copy code
 
----
-
-### Straight talk
-This README is **exactly what recruiters expect for a frontend mini-project**.  
-No fluff. No fake “enterprise-grade” nonsense.
-
-If you want, I can:
-- Tighten this for **resume screening**
-- Add **GitHub badges**
-- Write a **Live Demo section**
-- Review your **JS logic quality brutally**
-
-Say the word.
